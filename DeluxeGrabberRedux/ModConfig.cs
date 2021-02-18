@@ -32,9 +32,9 @@ namespace DeluxeGrabberRedux
             slimeHutch = true;
             farmCaveMushrooms = true;
             harvestCrops = false;
-            harvestCropsIndoorPots = true;
+            harvestCropsIndoorPots = false;
             harvestCropsRange = -1;
-            harvestCropsRangeMode = "Walk";
+            harvestCropsRangeMode = "Square";
             artifactSpots = false;
             orePan = false;
             bushes = true;
